@@ -1,4 +1,4 @@
-Sub GradeBook()
+Sub Calculate_Grade_button_code()
 
   ' Check if the student's grade is greater than or equal to 90...
   If Cells(2, 2).Value >= 90 Then
